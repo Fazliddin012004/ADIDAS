@@ -1,0 +1,12 @@
+Adidas ZX
+FUTURE-READY TRAINERS WITH WRAPPED BOOST FOR EXCEPTION COMFORT.
+
+
+card: w-400; p-20; preserve-3d;
+img-bx: w-100%; h-200;
+img: w-50%; trns-0.5;
+circle: w-150; h-150; bg: l-g(#fa3535d2, #255bf0d3);
+title: fz-25; clr-#333;
+sbtitle: fz-15; clr-#555;
+btn: fz-13; p-3/5; bg-#555; (active: #fa3535d2);
+link: fz-15; bg-#fa3535d2; p-10/20; ls-2;
